@@ -1,0 +1,8 @@
+{"namespace": "com.blowder.avro.models",
+ "type": "record",
+ "name": "UserInfo",
+ "fields": [
+     {"name": "address", "type": "string"},
+     {"name": "phone_number",  "type": ["int", "null"]}
+ ]
+}

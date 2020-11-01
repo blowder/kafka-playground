@@ -1,0 +1,9 @@
+{"namespace": "com.blowder.avro.models",
+ "type": "record",
+ "name": "DeliveryRecord",
+ "fields": [
+     {"name": "username", "type": "string"},
+     {"name": "address", "type": "string"},
+     {"name": "phone", "type": "string"}
+ ]
+}

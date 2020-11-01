@@ -3,5 +3,8 @@ package com.blowder.kafka;
 public enum Topics {
     randUsers,
     randNumbers,
-    randNumbersStats;
+    partialUsers,
+    partialUsersInfo,
+    deliveryRecords,
+    randNumbersStats
 }
